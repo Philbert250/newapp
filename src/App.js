@@ -10,7 +10,7 @@ function App() {
       <Switch>
         <Route exact path="/">
           <Welcome/>
-        </Route>
+        </Route>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
         <Route exact path="/nav">
           <Navbar/>
         </Route>
